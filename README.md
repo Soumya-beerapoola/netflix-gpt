@@ -14,6 +14,9 @@ Currently, two official plugins are available:
 ------------------
  - create vite
  - config tailwind
+ - Header
+ - Login Form
+ - Sign up
 
 
 
